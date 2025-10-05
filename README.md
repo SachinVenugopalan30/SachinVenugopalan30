@@ -13,7 +13,14 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, anything in that domain and I may be able to help you!**
 
-- Wang to reach out? **venugopalannairsachin@gmail.com**
+- Wang to reach out? **[Hit me up here!](venugopalannairsachin@gmail.com)**
+
+- I love **self-hosting!** I currently self(remote)-host a bunch of open source alternatives to services people regularly use! These include:
+    - Nextcloud for cloud storage
+    - Paperless-NGX for document storage
+    - Umami for site analytics
+    - ConvertX for easy file conversions on the fly
+    - Netdata for keeping track of my server resource usage (although its incomplete and I'm too lazy to get it fully up and running)
 
 - ⚡ Fun fact **I feel like this is not really required but I'm doing it anyway to look cool, lol**
 
