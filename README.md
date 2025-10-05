@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, anything in that domain and I may be able to help you!**
 
-- Wang to reach out? **[Hit me up here!](venugopalannairsachin@gmail.com)**
+- Wang to reach out? **[Hit me up here!](mailto:venugopalannairsachin@gmail.com)**
 
 - I love **self-hosting!** I currently self(remote)-host a bunch of open source alternatives to services people regularly use! These include:
     - Nextcloud for cloud storage
