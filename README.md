@@ -7,7 +7,7 @@
 
 - 📚 I’m currently working on getting my Master's in Computer Science at [ASU](https://asu.edu)
 
-- 🌱 I’m currently learning **Web Dev, so that's everything related. :( **
+- 🌱 I’m currently learning **Web Dev, so that's everything related.** :(
 
 - 👨‍💻 All of my projects are available at [https://svnair.dev](https://svnair.dev)
 
