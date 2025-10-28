@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinvenugopalan30&label=Profile%20views&color=0e75b6&style=flat" alt="sachinvenugopalan30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinvenugopalan30" alt="sachinvenugopalan30" /></a> </p>
-
 - 📚 I’m currently working on getting my Master's in Computer Science at [ASU](https://asu.edu)
 
 - 🌱 I’m currently learning **Web Dev, so that's everything related.** :(
