@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Web Dev, so that's everything related.** :(
 
-- 👨‍💻 All of my projects are available at [https://svnair.dev](https://svnair.dev)
+- 👨‍💻 You should most definitely totally check me out at [https://svnair.dev](https://svnair.dev)
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, anything in that domain and I may be able to help you!**
 
-- Wang to reach out? **[Hit me up here!](mailto:venugopalannairsachin@gmail.com)**
+- Want to reach out? **[Hit me up here!](mailto:venugopalannairsachin@gmail.com)**
 
 - I love **self-hosting!** I currently self(remote)-host a bunch of open source alternatives to services people regularly use! These include:
     - Nextcloud for cloud storage
