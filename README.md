@@ -23,5 +23,6 @@
     <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,vscode,linux,bash,git,docker,sklearn,tensorflow,pytorch,postgresql,mongodb,react,nextjs,aws,azure,gcp&perline=5" />
   </a>
 </p>
-
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SachinVenugopalan30&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</p>
