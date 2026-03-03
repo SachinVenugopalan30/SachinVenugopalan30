@@ -2,7 +2,7 @@
 <p>I'm currently a student at <strong><a href="https://asu.edu/">Arizona State University</a></strong>, formerly a <strong><a href="https://xkcd.com/2494/">Data Scientist</a></strong> and currently based in 🏜️ Phoenix. I am working on some side projects, learning a couple new dishes (NOT), trying to continue my hobby of Photography(NOT) and trying to play games on a Macbook.</p>
 <p><a href="https://svnair.dev"><img src="https://img.shields.io/badge/-svnair.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://svnair.dev" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/sachin-v-nair/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin;link=https://www.linkedin.com/in/sachin-v-nair/" alt="LinkedIn Badge"></a> </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/SachinVenugopalan30/JobGlove">JobGlove</a> and <a href="https://xkcd.com/52/">super secret stuff</a>! 🤫</li>
